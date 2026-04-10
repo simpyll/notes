@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test123.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test123"
+              "title": "README"
             }
           }
         ],
@@ -183,8 +183,8 @@
   },
   "active": "9f1c9448729dabfa",
   "lastOpenFiles": [
-    "README.md",
     "Test123.md",
+    "README.md",
     "Test.md"
   ]
 }
